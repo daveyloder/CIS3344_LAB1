@@ -6,3 +6,7 @@
 - I also fixed the `<a href="https://example.com">Click Here to view my profile</a>` as the tag was not complete with the `>`.
 - Also fixed the struture of the body tag comming after the html tag.
 - Finally fixed the meta tags to have correct back stalshes within the tag.
+
+## Gif for fun
+
+![](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)

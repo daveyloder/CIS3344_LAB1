@@ -1,0 +1,14 @@
+{
+  "name": "lab-1-starter-code",
+  "version": "1.0.0",
+  "description": "Lab 1 Assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Loder",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
